@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c2aae67019a4d76a5e33b1aaa9b74d, type: 3}
+  m_Name: Boulders
+  m_EditorClassIdentifier: 
+  id: 0
+  Prefab: {fileID: 6756297998570777990, guid: 1549ec73475534c3ea2a7e2f7d339ec4, type: 3}
+  MinHeight: 70
+  MaxHeight: 300
+  Offset: 0
+  MinSize: {x: 5, y: 5, z: 5}
+  MaxSize: {x: 5, y: 5, z: 5}
+  randomSpawns: 1
+  Rarity: 15
+  Density: 0
+  Lacunarity: 2
+  Persistance: 0.5
+  NoiseScale: 24.2
+  Octaves: 3
+  Seed: 0

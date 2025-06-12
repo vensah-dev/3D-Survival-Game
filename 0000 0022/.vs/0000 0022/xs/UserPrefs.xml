@@ -1,0 +1,57 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Terrain/Mesh Generation/TerrrainEditor.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Terrain/Mesh Generation/TerrrainEditor.cs" Line="191" Column="6" />
+      <File FileName="Assets/Scripts/NonPlayerHealth.cs" />
+      <File FileName="Assets/Scripts/Terrain/Folliage/DistanceActivator.cs" />
+      <File FileName="Assets/Scripts/Terrain/Folliage/FolliageActivator.cs" />
+      <File FileName="Assets/Scripts/Terrain/Mesh Generation/meshGenerator.cs" />
+      <File FileName="Assets/Scripts/Terrain/Mesh Generation/GenerateInfinite.cs" />
+      <File FileName="Assets/Scripts/Inventory/Inventory.cs" />
+      <File FileName="Assets/Scripts/Inventory/InventorySlot.cs" />
+      <File FileName="Assets/Scripts/Inventory/Item.cs" />
+      <File FileName="Assets/Scripts/PostProcessingManager.cs" />
+      <File FileName="Assets/Scripts/Player/MouseLook.cs" />
+      <File FileName="Assets/Scripts/Creatures/Passive Creatures/PassiveAnimal.cs" />
+      <File FileName="Assets/Scripts/Terrain/Mesh Generation/noise.cs" />
+      <File FileName="Assets/Scripts/Terrain/Mesh Generation/Falloff.cs" />
+      <File FileName="Assets/Scripts/Terrain/Folliage/Folliage.cs" />
+      <File FileName="Assets/Scripts/Terrain/Folliage/FolliageData.cs" />
+      <File FileName="Assets/Scripts/Terrain/Folliage/FolliageGenerator.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="0000 0022" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Creatures" expanded="True">
+                    <Node name="Passive Creatures" expanded="True" />
+                  </Node>
+                  <Node name="Inventory" expanded="True" />
+                  <Node name="Player" expanded="True" />
+                  <Node name="Terrain" expanded="True">
+                    <Node name="Folliage" expanded="True" />
+                    <Node name="Mesh Generation" expanded="True">
+                      <Node name="TerrrainEditor.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/devendranvenkatesh/Unity/0000 0022/Assets/Scripts/Terrain/Mesh Generation/GenerateInfinite.cs" relfile="Assets/Scripts/Terrain/Mesh Generation/GenerateInfinite.cs" line="89" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

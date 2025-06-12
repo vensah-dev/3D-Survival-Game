@@ -1,0 +1,2 @@
+/Users/devendranvenkatesh/Unity/0000 0022/obj/Debug/UnityEngine.UI.csproj.AssemblyReference.cache
+/Users/devendranvenkatesh/Unity/0000 0022/obj/Debug/UnityEngine.UI.csproj.CoreCompileInputs.cache
